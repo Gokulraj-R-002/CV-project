@@ -1,0 +1,130 @@
+True
+True
+Loading pretrained_checkpoints/mse_lambda_0.05.pth.tar
+b
+PSNR: 41.39dB
+MS-SSIM: 19.48dB
+Bit-rate: 0.220bpp
+Color PSNR: 41.57dB
+CIEDE2000: 1.027
+PSNR: 38.65dB
+MS-SSIM: 19.30dB
+Bit-rate: 0.595bpp
+Color PSNR: 38.72dB
+CIEDE2000: 1.262
+PSNR: 38.79dB
+MS-SSIM: 20.96dB
+Bit-rate: 0.760bpp
+Color PSNR: 38.86dB
+CIEDE2000: 1.504
+PSNR: 42.38dB
+MS-SSIM: 22.72dB
+Bit-rate: 0.298bpp
+Color PSNR: 42.82dB
+CIEDE2000: 1.092
+PSNR: 42.73dB
+MS-SSIM: 21.40dB
+Bit-rate: 0.206bpp
+Color PSNR: 43.11dB
+CIEDE2000: 0.919
+PSNR: 40.89dB
+MS-SSIM: 20.21dB
+Bit-rate: 0.273bpp
+Color PSNR: 41.93dB
+CIEDE2000: 1.038
+PSNR: 41.54dB
+MS-SSIM: 21.52dB
+Bit-rate: 0.258bpp
+Color PSNR: 41.64dB
+CIEDE2000: 1.092
+PSNR: 39.26dB
+MS-SSIM: 19.52dB
+Bit-rate: 0.556bpp
+Color PSNR: 39.32dB
+CIEDE2000: 1.190
+PSNR: 37.92dB
+MS-SSIM: 20.03dB
+Bit-rate: 0.779bpp
+Color PSNR: 38.02dB
+CIEDE2000: 1.358
+PSNR: 41.14dB
+MS-SSIM: 20.47dB
+Bit-rate: 0.299bpp
+Color PSNR: 41.36dB
+CIEDE2000: 1.106
+PSNR: 38.90dB
+MS-SSIM: 20.17dB
+Bit-rate: 0.643bpp
+Color PSNR: 39.05dB
+CIEDE2000: 1.478
+PSNR: 39.81dB
+MS-SSIM: 19.71dB
+Bit-rate: 0.384bpp
+Color PSNR: 39.90dB
+CIEDE2000: 1.312
+PSNR: 39.49dB
+MS-SSIM: 19.19dB
+Bit-rate: 0.446bpp
+Color PSNR: 39.66dB
+CIEDE2000: 1.219
+PSNR: 39.06dB
+MS-SSIM: 18.25dB
+Bit-rate: 0.446bpp
+Color PSNR: 39.16dB
+CIEDE2000: 1.553
+PSNR: 38.14dB
+MS-SSIM: 21.24dB
+Bit-rate: 0.780bpp
+Color PSNR: 38.24dB
+CIEDE2000: 1.592
+PSNR: 39.70dB
+MS-SSIM: 20.89dB
+Bit-rate: 0.505bpp
+Color PSNR: 39.78dB
+CIEDE2000: 1.243
+PSNR: 40.55dB
+MS-SSIM: 19.24dB
+Bit-rate: 0.291bpp
+Color PSNR: 40.69dB
+CIEDE2000: 1.057
+PSNR: 42.20dB
+MS-SSIM: 21.99dB
+Bit-rate: 0.236bpp
+Color PSNR: 42.33dB
+CIEDE2000: 1.076
+PSNR: 36.86dB
+MS-SSIM: 19.22dB
+Bit-rate: 1.173bpp
+Color PSNR: 36.91dB
+CIEDE2000: 1.686
+PSNR: 40.09dB
+MS-SSIM: 18.07dB
+Bit-rate: 0.254bpp
+Color PSNR: 40.24dB
+CIEDE2000: 0.888
+PSNR: 41.91dB
+MS-SSIM: 21.01dB
+Bit-rate: 0.248bpp
+Color PSNR: 42.01dB
+CIEDE2000: 1.129
+PSNR: 43.06dB
+MS-SSIM: 21.37dB
+Bit-rate: 0.184bpp
+Color PSNR: 43.54dB
+CIEDE2000: 0.956
+PSNR: 38.52dB
+MS-SSIM: 19.13dB
+Bit-rate: 0.649bpp
+Color PSNR: 38.59dB
+CIEDE2000: 1.600
+PSNR: 40.48dB
+MS-SSIM: 19.51dB
+Bit-rate: 0.335bpp
+Color PSNR: 40.60dB
+CIEDE2000: 1.114
+average_PSNR: 40.14dB
+average_MS-SSIM: 20.1910
+average_Bit-rate: 0.451 bpp
+average_time: 0.260 ms
+average_colorPSNR: 40.33dB
+average_CIEDE2000:  30.723
